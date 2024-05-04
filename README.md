@@ -5,6 +5,9 @@
   <a href="https://www.upwork.com/freelancers/~013c39a80a4fa3cea8" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/upwork.svg" alt="upwork" height="30" width="30" />
   </a>
+  <a href="https://stackoverflow.com/users/22231480/lntr" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="stackoverflow" height="30" width="30" />
+  </a>
    <a href="lakmitha.nadun@gmail.com" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="lakmitha.nadun@gmail.com" height="30" width="30" />
   </a>
