@@ -1,9 +1,9 @@
 
 <h1>Hi there 👋, I'm Lakmitha Ruhunuarachchi</h1>
 <h3>Undergraduate at UCSC </h3> 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lntr&label=Profile%20views&color=0e75b6&style=flat" alt="lntr" /> </p>
 
 ![image](https://www.codewars.com/users/LNTR/badges/large)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=lntr&label=Profile%20views&color=0e75b6&style=flat" alt="lntr" /> </p>
 
 <h4 align="left">How to connect with me:</h4>
   <a href="https://www.upwork.com/freelancers/~013c39a80a4fa3cea8" target="blank">
