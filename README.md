@@ -45,6 +45,6 @@
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30"/> </a> 
 </p>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lntr&hide=css,scss,html,batchfile&show_icons=true&locale=en&layout=compact">
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lntr&show=cpp&hide=css,scss,html,batchfile&show_icons=true&locale=en&layout=compact">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=lntr">
 <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=lntr&">
