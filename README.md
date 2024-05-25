@@ -15,7 +15,7 @@
   <a href="https://www.codewars.com/users/LNTR" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codewars.svg" alt="lntr" height="30" width="30" />
   </a>
-   <a href="lakmitha.nadun@gmail.com" target="blank">
+   <a href="mailto: lakmitha.nadun@gmail.com" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="lakmitha.nadun@gmail.com" height="30" width="30" />
   </a>
   <a href="https://web.facebook.com/Thanushka2001/" target="blank">
