@@ -2,7 +2,7 @@
 <h1>Hi there 👋, I'm Lakmitha Ruhunuarachchi</h1>
 <h3>Undergraduate at UCSC </h3> 
 
-![image](https://www.codewars.com/users/Lakmitha/badges/micro)
+![image](https://www.codewars.com/users/LNTR/badges/micro)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lntr&label=Profile%20views&color=0e75b6&style=flat" alt="lntr" /> </p>
 
 <h4 align="left">How to connect with me:</h4>
@@ -12,7 +12,7 @@
   <a href="https://stackoverflow.com/users/22231480/lntr" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="stackoverflow" height="30" width="30" />
   </a>
-  <a href="https://www.codewars.com/users/Lakmitha" target="blank">
+  <a href="https://www.codewars.com/users/LNTR" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codewars.svg" alt="lntr" height="30" width="30" />
   </a>
    <a href="mailto: lakmitha.nadun@gmail.com" target="blank">
