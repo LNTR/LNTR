@@ -46,7 +46,7 @@
   
 </p>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lntr&show=cpp&hide=jupyter%20notebook,css,scss,html,batchfile&show_icons=true&locale=en&layout=compact">
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lntr&show=cpp&hide=jupyter%20notebook,java,css,scss,html,batchfile&show_icons=true&locale=en&layout=compact">
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=lntr">
 <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=lntr&">
